@@ -21,6 +21,7 @@ line will start with 'dash-part' if binnary_array[K] is equal 1, else K-th line 
 
 ## Running Code ##
 Just download these two python files and type in terminal _python3 main.py_
+
 **Make sure you are using Python 3.8.x Interpreter
 From unknown reasons turtle module doesn't work properly with Python 3.9 and 3.10, at this moment (27.07.2022).**
 
